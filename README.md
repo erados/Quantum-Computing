@@ -9,7 +9,7 @@ My study of QC with cirq.
 ![도이치 알고리즘 회로](https://github.com/erados/Quantum-Computing/blob/main/Deutsch%20algorithm%20circuit.svg)
 ![도이치 알고리즘 결과 분포](https://github.com/erados/Quantum-Computing/blob/main/Deutsch%20algorithm%20distribution.svg)
 
-도이치 알고리즘은 ![](https://latex.codecogs.com/svg.latex?f:{0,1}\rightarrow{0,1})가 상수 함수인지 균형 함수(출력이 0과 1일 경우의 수가 같음)인지 판단하는 알고리즘이다.
+도이치 알고리즘은 ![](https://latex.codecogs.com/svg.latex?f:\{0,1\}\rightarrow\{0,1\})가 상수 함수인지 균형 함수(출력이 0과 1일 경우의 수가 같음)인지 판단하는 알고리즘이다.
 
 고전 컴퓨팅으로는 2회의 쿼리를 보내야하지만 양자 컴퓨팅으로는 1회의 쿼리만 보내면 된다.
 
