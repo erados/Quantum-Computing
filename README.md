@@ -17,7 +17,7 @@ My study of QC with cirq.
 
 ![](https://latex.codecogs.com/svg.latex?Q_1) 에 대해 ![](https://latex.codecogs.com/svg.latex?I,%20-I,%20Z,%20-Z)(상수/상수/균형/균형),
 
-![](https://latex.codecogs.com/svg.latex?Q_0) 에 대해 ![](https://latex.codecogs.com/svg.latex?I,%20X,%20CNOT(Q_1,%20Q_0),%20CNOT(Q_1,%20Q_0)&X) 를 수행하게된다.
+![](https://latex.codecogs.com/svg.latex?Q_0) 에 대해 ![](https://latex.codecogs.com/svg.latex?I,%20X,%20CNOT(Q_1,Q_0),%20CNOT(Q_1,Q_0)\&X) 를 수행하게된다.
 
 따라서 ![](https://latex.codecogs.com/svg.latex?Q_1) 의 양쪽에 ![](https://latex.codecogs.com/svg.latex?H)를 추가하면 
 
