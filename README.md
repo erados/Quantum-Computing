@@ -2,7 +2,7 @@
 My study of QC with cirq.
 
 # Two Qubits Teleportation
-![2-큐빗 순간이동 실행결과](https://github.com/erados/Quantum-Computing/blob/main/two_qubits_teleportation.png){: width="100" height="100"}
+![2-큐빗 순간이동 실행결과](https://github.com/erados/Quantum-Computing/blob/main/two_qubits_teleportation.png)
 1-큐빗 순간이동을 채널만 늘린 것이다. 1-큐빗 순간이동은 EPR 쌍을 공유하고 메시지와 엘리스의 큐비트를 벨 측정(CNOT-H)하여 이루어진다.
 
 # Deutsch's Algorithm
